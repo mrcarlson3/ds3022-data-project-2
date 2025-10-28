@@ -1,0 +1,4 @@
+Pipfile
+requirements.txt
+.airflow_local/
+.csv
